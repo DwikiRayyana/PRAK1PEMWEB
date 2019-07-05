@@ -1,0 +1,40 @@
+.body{
+  margin: 0;
+  font-family: 'Karla', sans-serif;
+  font-weight: 300;
+  box-sizing: border-box;
+}
+
+.container{
+min-height: 500px;
+width: 400px;
+background-color: #fff;
+border-radius: 20px;
+}
+
+.new-folder{
+  margin-left: 300px;
+}
+
+.logo{
+  width:300px;
+  margin: 50px;
+  margin-top:0;
+}
+
+.navbar-brand{
+  padding: 95px;
+}
+
+th.headerSortUp {
+  background-image: url(images/asc.gif);
+  background-color: #3399FF;
+  background-repeat: no-repeat;
+  background-position: center right;
+}
+th.headerSortDown {
+  background-image: url(images/desc.gif);
+  background-color: #3399FF;
+  background-repeat: no-repeat;
+  background-position: center right;
+}
